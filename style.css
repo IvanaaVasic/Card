@@ -61,6 +61,7 @@ body {
 .name-age {
   display: flex;
   margin: 10px;
+  align-items: center;
 }
 .name {
   margin-right: 10px;
